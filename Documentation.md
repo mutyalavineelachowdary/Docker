@@ -1,4 +1,4 @@
-# Docker Full-Stack Application Assignment
+# Docker Full-Stack Application
 
 ## Overview
 This project contains a full-stack application utilizing a **Node.js/Express frontend** and a **Flask backend**. Both services are containerized using Docker and orchestrated together using Docker Compose.
